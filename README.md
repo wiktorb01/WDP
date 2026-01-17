@@ -1,2 +1,2 @@
 # WDP
-Rozwiązania zadań programystycznych z przedmiotu wstęp do programowania
+Rozwiązania zadań programistycznych z przedmiotu wstęp do programowania
